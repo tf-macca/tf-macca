@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm tf-macca
 
-<!--
-**tf-macca/tf-macca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineer who loves tinkering with home labs, servers, and tech that breaks right before bed.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 🖥️ Windows Server, Active Directory
+- ☁️ Proxmox, Docker, Cloudflare Tunnels
+- 🧠 AI nerd (Ollama, LLMs, OpenWebUI)
+- 💻 Dev tools: VS Code, Git, Bash, and caffeine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats (just for fun)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tf-macca&show_icons=true)
+
+---
+
+> “Never trust a computer you can’t throw out a window.” – Steve Wozniak
